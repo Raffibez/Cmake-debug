@@ -1,0 +1,21 @@
+Python: 3.10.8
+          platform: Linux-4.1.18-g1203318-aarch64-with-libc
+          machine: aarch64
+          bits: 64
+          pip: n/a
+          setuptools: 65.5.0
+          scikit-build: 0.15.0
+          PEP517_BUILD_BACKEND=setuptools.build_meta
+          =============================DEBUG ASSISTANCE=============================
+
+      An error occurred while building with CMake.
+        Command:
+          cmake --build . --target install --config Release --
+        Install target:
+          install
+        Source directory:
+          /data/data/com.termux/files/usr/tmp/pip-install-7297p7ic/cmake_02d003dc4acc463fb3213ff6a9ed45b0
+        Working directory:
+          /data/data/com.termux/files/usr/tmp/pip-install-7297p7ic/cmake_02d003dc4acc463fb3213ff6a9ed45b0/_skbuild/linux-aarch64-3.10/cmake-build
+      Please check the install target is valid and see CMake's output for more information.
+      [end of output]
